@@ -14,8 +14,7 @@ cf. SOLID 원칙
 컴포넌트를 변경할 이유가 한 가지라면 우리가 어떤 다른 이유로 소프트웨어를 변경하더라도 이 컴포넌트에 대해서는 전혀 신경 쓸 필요가 없다.
 
 변경 이유는 의존성에 의해 전파가 빠르다
-<img src="/Users/seunchoi/Desktop/clean-architecture/res/pic2-1.png" width="400" height="300"/>
-<!-- ![image](/res/pic2-1.png)  -->
+![image](/res/pic2-1.png) 
 의존도가 높은 컴포넌트 A는 어떤 컴포넌트가 변경되든지 같이 변경되어야함  
 ➡️ 변경 비용 증가
 
